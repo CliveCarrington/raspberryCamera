@@ -1,0 +1,12 @@
+
+
+Using Rob at the following GIT address:
+
+	https://github.com/rob5standingby/raspberry-pi-s3-cam
+
+Need to install tinys3 to get the link to your own S3 bucket
+I found that a bucket I created from the console didn't work, but you can use the make bucket command, s3cmd mb <name> to create a fresh one!
+Just follow Rob's instructions and add your own S3 identity and shared secret to the config file, renaming it just config
+
+Clive
+29Aug17
