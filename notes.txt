@@ -12,3 +12,8 @@ Just follow Rob's instructions and add your own S3 identity and shared secret to
 
 Clive
 29Aug17
+
+After running for a number of weeks, the pi refuses to boot. It seems that some files on the card have become corrupt. Am attempting to pull back to here anything useful and will then reformat and programme the card
+
+Clive
+12Oct17
