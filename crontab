@@ -1,0 +1,3 @@
+# m h  dom mon dow   command
+0,15,30,45 * * * * cd /home/pi/Code/raspberryCamera/bin; ./statusCamera.sh >> ./log/cron.log
+5 * * * *	cd /home/pi/Code/raspberryCamera/bin;./cameraHealth.sh
